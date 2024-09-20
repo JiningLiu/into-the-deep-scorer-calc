@@ -55,11 +55,11 @@ The calculation functions inside the `Processor` struct each return 4 values of 
 let scores = Processor.calcBlue(game: game)
 
 scores.0 // auto
-scores.0 // teleop
-scores.0 // end game
-scores.0 // total w/o penalties
+scores.1 // teleop
+scores.2 // end game
+scores.3 // total w/o penalties
 ```
 
 
-Thanks for reading!
+#### Thanks for reading!
 > Made with 💜 by 20240 Westwood Slingshot & Contributors
