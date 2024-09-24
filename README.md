@@ -5,7 +5,7 @@ Calculation logic &amp; game save data structure/classes for the INTO THE DEEP S
 | Platform            | Language             | Supported  |
 | ------------------- | -------------------- | ---------- |
 | Apple (iOS, macOS)  | [Swift](./swift/)    | ✅         |
-| Android             | Kotlin               | Developing |
+| Android             | [Kotlin](./kotlin/)  | ✅         |
 | Web                 | JS/TS                | Developing |
 
 See each folder for code and further information.
